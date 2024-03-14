@@ -571,6 +571,99 @@
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.549331,30.2002699,17z/data=!3m1!4b1!4m6!3m5!1s0x472b3141a4c0afaf:0xef213cec527de3ba!8m2!3d50.549331!4d30.2002699!16s%2Fg%2F11pkjrkxvw?authuser=1&entry=ttu"
     },
      {
+        "city": "Вишгород",
+        "zoomCity": 14,
+        "cityCoordinates": [50.58291478266035, 30.484992496471673],
+        "name": "вул. Шкільна, 73А",
+        "tel": "093-646-08-60",
+        "time": "10:00-21:00",
+        "coordinates": [50.58851969737436, 30.486592298237365],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5365087,30.4551441,11z/data=!4m6!3m5!1s0x40d4d35f06aa6fe1:0xb39270862c151dcc!8m2!3d50.5829034!4d30.4871198!16s%2Fg%2F11l2cx0j43?hl=uk&entry=ttu"
+    },
+     {
+        "city": "Вишгород",
+        "zoomCity": 14,
+        "cityCoordinates": [50.58291478266035, 30.484992496471673],
+        "name": "вул. Набережна, 6-в",
+        "tel": "066-813-04-50",
+        "time": "10:00-21:00",
+        "coordinates": [50.5847772969635, 30.494907872360567],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5841097,30.4952512,15z/data=!4m6!3m5!1s0x41270bbf250fb1f9:0x9b1379d422447089!8m2!3d50.5841097!4d30.4952512!16s%2Fg%2F11cm3xwv6t?hl=uk&entry=ttu"
+    },
+    {
+    "city": "Вишневе",
+    "zoomCity": 14,
+    "cityCoordinates": [50.39166448339646, 30.377330592091578],
+    "name": "ТЦ «Novus» (вул. Святошинська, 28-А, 1-й поверх)",
+    "tel": "099-091-92-56",
+    "time": "10:00-21:00",
+    "coordinates": [50.39043962444813, 30.36898089999421],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3902994,30.3689809,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4ca2e16ab2da3:0xd91985f1234469ea!8m2!3d50.3902994!4d30.3689809!16s%2Fg%2F11c2nnrv_j?hl=ru&entry=ttu"
+  },
+     {
+    "city": "Вишневе",
+    "zoomCity": 14,
+    "cityCoordinates": [50.39166448339646, 30.377330592091578],
+    "name": "ТЦ «Novus» (вул. Першотравнева, 26)",
+    "tel": "099-663-42-02",
+    "time": "10:00-21:00",
+    "coordinates": [50.38135411040237, 30.38163216814959],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD+MasterZoo/@50.380711,30.381718,15z/data=!4m2!3m1!1s0x0:0x41a31910b2bdc275?sa=X&ved=2ahUKEwjhlpDymdyCAxXxVfEDHaUKAqkQ_BJ6BAhLEAA&hl=uk"
+  },
+  {
+    "city": "Бровари",
+    "zoomCity": 14,
+    "cityCoordinates": [50.51189739037055, 30.797274503180176],
+    "name": "ТРЦ «Термінал» (вул. Київська, 316, 1-й поверх)",
+    "tel": "097-491-32-98",
+    "time": "10:00-21:00",
+    "coordinates": [50.535036633655544, 30.797983362636096],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5182365,30.7526483,11z/data=!4m6!3m5!1s0x40d4d90b953eaefb:0x6e1bce0ecce7377!8m2!3d50.5259504!4d30.7965325!16s%2Fg%2F11fz26pj7g?entry=ttu"
+  },
+  {
+    "city": "Бровари",
+    "zoomCity": 14,
+    "cityCoordinates": [50.51189739037055, 30.797274503180176],
+    "name": "вул. Київська, 247",
+    "tel": "066-359-13-16",
+    "time": "10:00-21:00",
+    "coordinates": [50.51854103604729, 30.784952968101948],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5178725,30.7850388,15z/data=!4m6!3m5!1s0x40d4d96ebd755d6d:0xd6ef10aff1ae677c!8m2!3d50.5178725!4d30.7850388!16s%2Fg%2F11vb8bchn6?hl=uk&entry=ttu"
+  },
+  {
+    "city": "Софіївська Борщагівка (Київська область)",
+    "addto" :"Вишневе",
+    "zoomCity": 10,
+    "cityCoordinates": [50.40363104931562, 30.323260837044945],
+    "name": "ТРЦ «Європарк» (вул. Соборна, 140-A, 1-й поверх)",
+    "tel": "063-363-43-72",
+    "time": "10:00-21:00",
+    "coordinates": [50.4017944511263, 30.3239068727413],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.409111,30.3501747,13.25z/data=!4m6!3m5!1s0x40d4cbb3cf6e0b6b:0xf71d6712a1c725b4!8m2!3d50.3998441!4d30.3242951!16s%2Fg%2F11h3g8212w?authuser=1&entry=ttu"
+  },
+  {
+    "city": "Чабани (Київська область)",
+    "addto" :"Вишневе",
+    "zoomCity": 14,
+    "cityCoordinates": [50.338773492644634, 30.422157257410678],
+    "name": "вул. Покровська, 26",
+    "tel": "097-906-55-29",
+    "time": "10:00-21:00",
+    "coordinates": [50.340504761795174, 30.424721711262986],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3413208,30.4180376,14z/data=!4m6!3m5!1s0x40d4c96b0fc7c999:0x9b489cc0afb0b668!8m2!3d50.340337!4d30.424829!16s%2Fg%2F11vqhprw7p?entry=ttu"
+  },
+  {
+    "city": "Петропавлівська Бощагівка (Київська область)",
+    "addto" :"Вишневе",
+    "zoomCity": 12,
+    "cityCoordinates": [50.43366041856692, 30.328768288718233],
+    "name": "вул. Львівська 1-А",
+    "tel": "050-043-32-45",
+    "time": "10:00-21:00",
+    "coordinates": [50.433757196612504, 30.319694716403976],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4327424,30.3225473,15.5z/data=!4m6!3m5!1s0x40d4cbaae878a3db:0x3aa18b1798383d5c!8m2!3d50.4333359!4d30.3196715!16s%2Fg%2F11vt4s19cs?entry=ttu"
+  }
+     {
         "city": "Щасливе (Київська область)",
          "addto" :"Бориспіль",
         "zoomCity": 12,
