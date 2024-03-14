@@ -545,7 +545,7 @@
         "zoomCity": 14,
         "cityCoordinates": [50.51943960843891, 30.23631016255645],
         "name": "ТЦ «Irpin City» (вул. Центральна, 29, 1-й поверх)",
-        "tel": " 093-416-75-07",
+        "tel": "093-416-75-07",
         "time": "09:00-21:00",
         "coordinates": [50.52087885801103, 30.244976504889543],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5203195,30.245234,15z/data=!4m6!3m5!1s0x472b33d295a3cd41:0xe32c889bf4d6ecf7!8m2!3d50.5203195!4d30.245234!16s%2Fg%2F11c5_6psxc?hl=uk&entry=ttu"
@@ -555,7 +555,7 @@
         "zoomCity": 14,
         "cityCoordinates": [50.55347675345227, 30.21329159305481],
         "name": "ТЦ «Ritail Park» (Нове шосе, 52)",
-        "tel": " 063-307-35-38",
+        "tel": "063-307-35-38",
         "time": "10:00-21:00",
         "coordinates": [50.548715496200415, 30.193176751205108],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5432973,30.1970005,14.17z/data=!4m6!3m5!1s0x472b31aa5e5fa75d:0x73ccc63605a6194a!8m2!3d50.5472154!4d30.1933347!16s%2Fg%2F11sm9w8cwg?authuser=1&entry=ttu"
@@ -565,10 +565,31 @@
         "zoomCity": 14,
         "cityCoordinates": [50.55347675345227, 30.21329159305481],
         "name": "ТЦ «Avenir Plaza» (бул. Леоніда Бірюкова, 2, 1-й поверх)",
-        "tel": " 093-659-25-17",
+        "tel": "093-659-25-17",
         "time": "10:00-21:00",
         "coordinates": [50.54942985009627, 30.2002377134252],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.549331,30.2002699,17z/data=!3m1!4b1!4m6!3m5!1s0x472b3141a4c0afaf:0xef213cec527de3ba!8m2!3d50.549331!4d30.2002699!16s%2Fg%2F11pkjrkxvw?authuser=1&entry=ttu"
+    },
+     {
+        "city": "Щасливе (Київська область)",
+         "addto" :"Бориспіль",
+        "zoomCity": 14,
+        "cityCoordinates": [50.37587136859584, 30.79791544031604],
+        "name": "Супермаркет «Сільпо» (Бориспільське шосе, 1,)",
+        "tel": "098-090-65-97",
+        "time": "10:00-21:00",
+        "coordinates": [50.39273868730255, 30.77742193366324],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.38734,30.7610763,12.21z/data=!4m6!3m5!1s0x40d4c3baa75f00ab:0x944db439c6f28271!8m2!3d50.387809!4d30.7791769!16s%2Fg%2F11mxyj9g2l?authuser=1&entry=ttu"
+    },
+     {
+        "city": "Бориспіль",
+        "zoomCity": 14,
+        "cityCoordinates": [50.34807106682996, 30.956790973474178],
+        "name": "вул. Київський шлях, 47",
+        "tel": "066-917-06-37",
+        "time": "10:00-21:00",
+        "coordinates": [50.35944583336003, 30.94221534535648],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3586861,30.9394727,14.25z/data=!4m6!3m5!1s0x40d4e90f17137d9b:0xfb9327ef4de0a866!8m2!3d50.3582474!4d30.9417256!16s%2Fg%2F11vb8bsd1b?hl=uk&entry=ttu"
     },
       {
         "city":"Івано-Франківськ",
