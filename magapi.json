@@ -1387,6 +1387,56 @@
         "coordinates": [49.42277357494883, 26.996594557680115],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.4227598,26.9965664,21z/data=!4m6!3m5!1s0x473207f01ad7bdb1:0x786578f91a4dddb3!8m2!3d49.4227365!4d26.9965731!16s%2Fg%2F11vjfnb0jt?entry=ttu"
     },
+    {
+        "city": "Житомир",
+        "cityCoordinates": [50.261560868501675, 28.666771069371286],
+        "zoomCity": 12,
+        "name": "ТРЦ «Глобал UА» (вулиця Київська, 77, 1-й поверх)",
+        "tel": "095-653-75-01",
+        "time": "10:00-21:00",
+        "coordinates": [50.26629154356296, 28.685946188324166],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2662725,28.6859931,21z/data=!4m6!3m5!1s0x472c64af92d437e1:0xd863c27d2f0c877f!8m2!3d50.2662864!4d28.6859482!16s%2Fg%2F1wj_s0kk?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Житомир",
+        "cityCoordinates": [50.261560868501675, 28.666771069371286],
+        "zoomCity": 12,
+        "name": "ТЦ «OLDI» (вул. Михайла Грушевського, 5, 1-й поверх)",
+        "tel": "066-608-26-02",
+        "time": "10:00-21:00",
+        "coordinates": [50.259975570205455, 28.658693733246082],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2599964,28.6586716,21z/data=!4m6!3m5!1s0x472c6570678db7dd:0x6fb3fdd4652a4ce4!8m2!3d50.2599668!4d28.6586965!16s%2Fg%2F11mvxldt47?authuser=1&entry=ttu"
+    },
+    {
+        "city": "Житомир",
+        "cityCoordinates": [50.261560868501675, 28.666771069371286],
+        "zoomCity": 12,
+        "name": "пров. 1-й Винокурний, 63",
+        "tel": "093-248-94-46",
+        "time": "10:00-21:00",
+        "coordinates": [50.277689500774784, 28.637590542616678],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2776764,28.6375624,21z/data=!4m6!3m5!1s0x472c652111c69b4f:0x3db67748d41de07f!8m2!3d50.2776809!4d28.6375859!16s%2Fg%2F11l2bzh4q0?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Житомир",
+        "cityCoordinates": 50.261560868501675, 28.666771069371286],
+        "zoomCity": 12,
+        "name": "вул. Лятошинського, 2",
+        "tel": "066-926-12-06",
+        "time": "10:00-21:00",
+        "coordinates": [50.254330845122695, 28.665308730307004],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2543113,28.6653,21z/data=!4m6!3m5!1s0x472c657102269dbf:0xb6880cb621b4f14f!8m2!3d50.254322!4d28.665308!16s%2Fg%2F11vb8bbqpd?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Житомир",
+        "cityCoordinates": [50.261560868501675, 28.666771069371286],
+        "zoomCity": 12,
+        "name": "вул. Івана Сльоти, 49-В",
+        "tel": "099-710-45-48",
+        "time": "10:00-21:00",
+        "coordinates": [50.26069844416539, 28.700383011764426],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2607552,28.7004769,21z/data=!4m6!3m5!1s0x472c63e8ecd3aa01:0x3ebc5e6563cd1b2a!8m2!3d50.2606933!4d28.700381!16s%2Fg%2F11vdkkly0g?hl=uk&entry=ttu"
+    },
   {
     "city": "Харків",
     "zoomCity": 10,
