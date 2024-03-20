@@ -1107,12 +1107,62 @@
         "city": "Новомосковськ",
         "addto":"Дніпро",
         "cityCoordinates": [48.63256885587364, 35.22767426031444],
-        "zoomCity": 12,
+        "zoomCity": 10,
         "name": "вул. Гетьманська, 47-А",
         "tel": "095-817-80-91",
         "time": "9:00-20:00",
         "coordinates": [48.64161737270843, 35.25929338126831],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.6279246,35.2535963,11.5z/data=!4m6!3m5!1s0x40d9458f80adfbe9:0x4ebf5f3ea85198d9!8m2!3d48.6416096!4d35.2592931!16s%2Fg%2F11vb8bngb3?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Кривий Ріг",
+        "cityCoordinates": [47.91088649802502, 33.39157565886477],
+        "zoomCity": 12,
+        "name": "ТРЦ «Ліберті» (пр-т. Поштовий, 35-Б, 1-й поверх)",
+        "tel": "096-752-26-79",
+        "time": "10:00-20:00",
+        "coordinates": [47.90595284438886, 33.342872929199345],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@47.9059203,33.3429051,21z/data=!4m6!3m5!1s0x40dad8b2c9b7cb25:0xabba3f2544be6b34!8m2!3d47.9059393!4d33.3428723!16s%2Fg%2F11cn186x4y?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Кривий Ріг",
+        "cityCoordinates": [47.91088649802502, 33.39157565886477],
+        "zoomCity": 12,
+        "name": "ТРЦ «Сонячна галерея» (пл. 30-річчя Перемоги, 1, 1-й поверх)",
+        "tel": "098-211-90-65",
+        "time": "10:00-20:00",
+        "coordinates": [47.94636550473936, 33.44087310882266],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@47.9463536,33.4408778,17z/data=!3m1!4b1!4m6!3m5!1s0x40db20122221d107:0xce380e728d6db575!8m2!3d47.9463536!4d33.4408778!16s%2Fg%2F11byx7ql6b?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Кривий Ріг",
+        "cityCoordinates": [47.91088649802502, 33.39157565886477],
+        "zoomCity": 12,
+        "name": "ТЦ «Проспект» (пр-т 200-річчя Кривого Рогу, 24, 1-й поверх)",
+        "tel": "098-211-32-05",
+        "time": "10:00-20:00",
+        "coordinates": [47.96330222092146, 33.434713369146124],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@47.9633523,33.4347073,21z/data=!4m6!3m5!1s0x40dadf867d0bad77:0x9dff37ae33fe646a!8m2!3d47.9632971!4d33.4347154!16s%2Fg%2F11gxdsdft4?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Кривий Ріг",
+        "cityCoordinates": [47.91088649802502, 33.39157565886477],
+        "zoomCity": 12,
+        "name": "пр-т Гагаріна, 55",
+        "tel": "096-039-85-17",
+        "time": "10:00-20:00",
+        "coordinates": [47.90897791186035, 33.41095111152321],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@47.9089925,33.4109511,21z/data=!4m6!3m5!1s0x40db219c13ada33b:0x28a3be327fbe1640!8m2!3d47.908972!4d33.4109542!16s%2Fg%2F11rq2fmc_6?authuser=1&entry=ttu"
+    },
+    {
+        "city": "Кривий Ріг",
+        "cityCoordinates": [47.91088649802502, 33.39157565886477],
+        "zoomCity": 12,
+        "name": "вул. Петра Калнишевського, 12/57",
+        "tel": "066-563-72-97",
+        "time": "10:00-20:00",
+        "coordinates": [47.912844538266974, 33.33878287219578],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@47.9128947,33.3387721,21z/data=!4m6!3m5!1s0x40dadfd736a4c969:0x8c1c2829187a0d83!8m2!3d47.9128334!4d33.3387829!16s%2Fg%2F11l5h93n33?hl=uk&entry=ttu"
     },
     {
         "city": "Кам'янське",
