@@ -1013,6 +1013,96 @@
         "coordinates": [49.21959917203904, 28.4499482325224],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.218548,28.4498624,15z/data=!4m6!3m5!1s0x472d5b41d51738c3:0xe31c930dff87c5fe!8m2!3d49.219127!4d28.449803!16s%2Fg%2F11l36w1k39?hl=uk&entry=ttu"
     },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "ТРЦ «Дафі» (бул. Зоряний, 1-А, 1-й поверх)",
+        "tel": "095-124-75-58",
+        "time": "10:00-20:00",
+        "coordinates": [48.42577442945444, 35.0216941845042],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4256,35.0217371,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbe35082faac3b:0x25cc9fd6ecc7c26!8m2!3d48.4256!4d35.0217371!16s%2Fg%2F1vgw_8d9?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "ТРЦ «Караван» (вул. Нижньодніпровська, 17, 1-й поверх)",
+        "tel": "056-747-91-93",
+        "time": "10:00-20:00",
+        "coordinates": [48.529588657766865, 35.02961041547206],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.5294359,35.0295675,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbe3b839aa4ecb:0xa8a6f576efc2d323!8m2!3d48.5294359!4d35.0295675!16s%2Fg%2F1tfvxp7c?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "ТРЦ «Neo Plaza» (вул. Марії Кюрі, 5, 1-й поверх)",
+        "tel": "095-781-13-63",
+        "time": "10:00-21:00",
+        "coordinates": [48.438942960067024, 35.051964457725525],
+        "urlCoodinates": "https://www.google.com/maps/place/MasterZoo/@48.4388184,35.051943,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbfccd2763488f:0x414ae72b389ac35f!8m2!3d48.4388184!4d35.051943!16s%2Fg%2F1ts3jr8q?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "ТЦ «Кодак» (пр-т. Героїв, 3)",
+        "tel": "050-364-65-95",
+        "time": "10:00-20:00",
+        "coordinates": [48.419589348384136, 35.06215473092206],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4194505,35.0620689,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbfdcc60659db1:0xf609041d78316e13!8m2!3d48.4194505!4d35.0620689!16s%2Fg%2F11ft17_r1q?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "бул. Слави, 40",
+        "tel": "050-016-19-96",
+        "time": "10:00-20:00",
+        "coordinates": [48.40763530318443, 35.048794057732295],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4074893,35.0487726,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbfb0a2a36d05f:0x277420795447c6e5!8m2!3d48.4074893!4d35.0487726!16s%2Fg%2F11ptn8sz9q?authuser=1&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "вул. Мономаха, 7",
+        "tel": "050-010-27-06",
+        "time": "10:00-20:00",
+        "coordinates": [48.46670136124739, 35.04511312887888],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4665413,35.0451024,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbe3edc62a1ff9:0x27501706788296ed!8m2!3d48.4665413!4d35.0451024!16s%2Fg%2F11q332d6cg?authuser=1&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "просп. О. Поля, 14",
+        "tel": "095-570-79-60",
+        "time": "9:00-20:00",
+        "coordinates": [48.46190406182907, 35.02658924435059],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4617511,35.0265356,17z/data=!3m1!4b1!4m6!3m5!1s0x40dbe3a1f18ff921:0xca9cea0ade515a4f!8m2!3d48.4617511!4d35.0265356!16s%2Fg%2F11q8vgmmbl?authuser=1&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "вул. Моніторна, 2",
+        "tel": "095-116-88-31",
+        "time": "9:00-20:00",
+        "coordinates": [48.47884290351243, 34.90943498428087],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4783735,34.9094779,15z/data=!4m6!3m5!1s0x40dbe1b99cd4463f:0x3c7a4e62c0120979!8m2!3d48.4783735!4d34.9094779!16s%2Fg%2F11l2cw_89q?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Дніпро",
+        "cityCoordinates": [48.46426000198422, 35.05253838396948],
+        "zoomCity": 10,
+        "name": "вул. Набережна Заводська, 97-А",
+        "tel": "099-616-56-42",
+        "time": "9:00-20:00",
+        "coordinates": [48.48637550268404, 34.924345763520044],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.4857355,34.9241741,15z/data=!4m6!3m5!1s0x40dbe14dda4aeb91:0xa1545a493bafe2d3!8m2!3d48.4857355!4d34.9241741!16s%2Fg%2F11vf3czv2n?hl=uk&entry=ttu"
+    },
   {
     "city": "Харків",
     "zoomCity": 10,
