@@ -1246,6 +1246,17 @@
         "coordinates": [51.49431717104686, 31.296094563536734],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@51.4943758,31.2960604,21z/data=!4m6!3m5!1s0x46d5494c3b95ee29:0x53813e0f59b296df!8m2!3d51.4943078!4d31.2960938!16s%2Fg%2F11vt4sbw5c?entry=ttu"
     },
+    {
+        "city": "Сміла",
+        "addto":"Черкаси",
+        "cityCoordinates": [49.22768079559992, 31.853786534982145],
+        "zoomCity": 10,
+        "name": "вул. Богдана Хмельницького, 49",
+        "tel": "066-873-05-63",
+        "time": "09:00-21:00",
+        "coordinates": [49.18652915255777, 31.892231140561105],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.1866161,31.8921145,21z/data=!4m6!3m5!1s0x40d13f23c249dcab:0xb2a46775cf8263ed!8m2!3d49.1865226!4d31.89223!16s%2Fg%2F11vdqmltr6?hl=uk&entry=ttu"
+    },
   {
     "city": "Харків",
     "zoomCity": 10,
