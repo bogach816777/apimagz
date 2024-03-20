@@ -923,6 +923,46 @@
         "coordinates": [49.59568638206181, 34.54153456049382],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.5936006,34.5530364,14z/data=!4m6!3m5!1s0x40d825c50f33e64b:0x64a6edcf0c2de5!8m2!3d49.5946159!4d34.5416209!16s%2Fg%2F11l2n4v3qv?hl=uk&entry=ttu"
     },
+     {
+        "city": "Суми",
+        "cityCoordinates": [50.908038481116186, 34.79432157842044],
+        "zoomCity": 12,
+        "name": "ТРЦ «Мануфактура» (вул. Харківська, 2/2, 1-й поверх)",
+        "tel": "099-706-87-61",
+        "time": "10:00-21:00",
+        "coordinates": [50.90459099567449, 34.80510999999761],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.904432,34.80511,17z/data=!3m1!4b1!4m6!3m5!1s0x412901f4c4ceefe3:0x121653986c5b40df!8m2!3d50.904432!4d34.80511!16s%2Fg%2F11cn18795l?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Суми",
+        "cityCoordinates": [50.908038481116186, 34.79432157842044],
+        "zoomCity": 12,
+        "name": "ТРЦ «Лавина» (пр-т. Михайла Лушпи, 4, 1-й поверх)",
+        "tel": "050-989-21-34",
+        "time": "10:00-20:00",
+        "coordinates": [],
+        "urlCoodinates": ""
+    },
+    {
+        "city": "Суми",
+        "cityCoordinates": [50.908038481116186, 34.79432157842044],
+        "zoomCity": 12,
+        "name": "вул. Петропавлівська, 72",
+        "tel": "066-945-53-34",
+        "time": "9:00-19:00",
+        "coordinates": [50.90480107165457, 34.819565400002546],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.9047165,34.8195654,17z/data=!3m1!4b1!4m6!3m5!1s0x4129021c350889fd:0xba4bf8aaed6ab845!8m2!3d50.9047165!4d34.8195654!16s%2Fg%2F11g6bg01gx?hl=ru&entry=ttu"
+    },
+    {
+        "city": "Суми",
+        "cityCoordinates": [50.908038481116186, 34.79432157842044],
+        "zoomCity": 12,
+        "name": "вул. Героїв Крут, 60/4",
+        "tel": "099-495-46-40",
+        "time": "9:00-20:00",
+        "coordinates": [],
+        "urlCoodinates": ""
+    },
   {
     "city": "Харків",
     "zoomCity": 10,
