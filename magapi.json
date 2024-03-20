@@ -1598,6 +1598,47 @@
         "coordinates": [50.59789103589571, 26.264099770572106],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5979474,26.2641165,21z/data=!4m6!3m5!1s0x472f13f101054fc9:0x9b96d851bb813fd!8m2!3d50.5978838!4d26.2640991!16s%2Fg%2F11vdkkx3c7?hl=uk&entry=ttu"
     },
+    {
+        "city": "Тернопіль",
+        "cityCoordinates": [49.551161344382024, 25.595184861901256],
+        "zoomCity": 12,
+        "name": "вул. Крушельницької, 35/66",
+        "tel": "066-808-44-91",
+        "time": "10:00-20:00",
+        "coordinates": [49.558032937420364, 25.59535629807007],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.5579988,25.5952906,21z/data=!4m6!3m5!1s0x473031c8014ad9dd:0x752ea7749fbc0a34!8m2!3d49.5580235!4d25.5953565!16s%2Fg%2F11l2cx47w3?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Тернопіль",
+        "cityCoordinates": [49.551161344382024, 25.595184861901256],
+        "zoomCity": 12,
+        "name": "бул. Шевченка, 21",
+        "tel": "096-755-58-10",
+        "time": "10:00-20:00",
+        "coordinates": [49.55370934070902, 25.595390632681287],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.5537474,25.5953772,21z/data=!4m6!3m5!1s0x47303182eec37c01:0xcab34719469b4521!8m2!3d49.5536985!4d25.5953879!16s%2Fg%2F11vdkkc9qt?hl=uk&entry=ttu"
+    },
+     {
+        "city": "Дрогобич",
+        "cityCoordinates": [49.357908934967156, 23.512883947030737],
+        "zoomCity": 12,
+        "name": "вул. Володимира Великого, 1-Р",
+        "tel": "097-399-10-29",
+        "time": "10:00-20:00",
+        "coordinates": [49.35765138697348, 23.520356390189967],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.3576651,23.5204744,21z/data=!4m6!3m5!1s0x473a4f5184c4f19d:0xe1a026a4b7eed1c!8m2!3d49.3576426!4d23.5203567!16s%2Fg%2F11vb8bsqs3?hl=uk&entry=ttu"
+    },
+      {
+        "city": "Трускавець",
+        "addto": "Дрогобич",
+        "cityCoordinates": [49.27626789272356, 23.51231543393621],
+        "zoomCity": 12,
+        "name": "ТЦ «Вектор» вул. Стебницька, 43",
+        "tel": "068-675-13-00",
+        "time": "10:00-20:00",
+        "coordinates": [49.28089368778768, 23.51720223802208],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.2808742,23.5171385,21z/data=!4m6!3m5!1s0x473a49303df80d23:0xf83b0178ea3d32f0!8m2!3d49.2808842!4d23.5172043!16s%2Fg%2F11vb8bbqpb?hl=uk&entry=ttu"
+    },
   {
     "city": "Харків",
     "zoomCity": 10,
