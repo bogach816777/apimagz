@@ -1621,7 +1621,7 @@
      {
         "city": "Дрогобич",
         "cityCoordinates": [49.357908934967156, 23.512883947030737],
-        "zoomCity": 12,
+        "zoomCity": 14,
         "name": "вул. Володимира Великого, 1-Р",
         "tel": "097-399-10-29",
         "time": "10:00-20:00",
@@ -1632,12 +1632,42 @@
         "city": "Трускавець",
         "addto": "Дрогобич",
         "cityCoordinates": [49.27626789272356, 23.51231543393621],
-        "zoomCity": 12,
+        "zoomCity": 14,
         "name": "ТЦ «Вектор» вул. Стебницька, 43",
         "tel": "068-675-13-00",
         "time": "10:00-20:00",
         "coordinates": [49.28089368778768, 23.51720223802208],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.2808742,23.5171385,21z/data=!4m6!3m5!1s0x473a49303df80d23:0xf83b0178ea3d32f0!8m2!3d49.2808842!4d23.5172043!16s%2Fg%2F11vb8bbqpb?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Чернівці",
+        "cityCoordinates": [48.29275221614309, 25.935967540384993],
+        "zoomCity": 12,
+        "name": "вул. Небесної Сотні, 19-А",
+        "tel": "095-732-52-69",
+        "time": "10:00-20:00",
+        "coordinates": [48.268079773410804, 25.939949500089845],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.2680023,25.9398918,21z/data=!4m6!3m5!1s0x473409ceb56e8aff:0xda4b64b56b764ca6!8m2!3d48.2680704!4d25.9399495!16s%2Fg%2F11vb8bchmy?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Чернівці",
+        "cityCoordinates": [48.29275221614309, 25.935967540384993],
+        "zoomCity": 12,
+        "name": "вул. Чорноморська, 4-А",
+        "tel": "095-791-29-35",
+        "time": "10:00-20:00",
+        "coordinates": [48.278977026507434, 25.94682386466636],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.2789893,25.9468051,21z/data=!4m6!3m5!1s0x40c41ab0cba4a8f7:0x26238b15721c4e26!8m2!3d48.278966!4d25.94683!16s%2Fg%2F11cn15ss9b?hl=uk&entry=ttu"
+    },
+    {
+        "city": "Чернівці",
+        "cityCoordinates": [48.29275221614309, 25.935967540384993],
+        "zoomCity": 12,
+        "name": "вул. Головна, 26",
+        "tel": "050-087-03-55",
+        "time": "10:00-20:00",
+        "coordinates": [48.29330476100035, 25.935952306147307],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.2933326,25.9359771,21z/data=!4m6!3m5!1s0x4734092f9e6be6ff:0x9ee71a58bb6bd5bf!8m2!3d48.2932945!4d25.935957!16s%2Fg%2F11y1pfxq21?hl=uk&entry=ttu"
     },
   {
     "city": "Харків",
@@ -1809,6 +1839,16 @@
     "coordinates": [49.997028771918345, 36.351499513380816],
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.9968598,36.3515317,17z/data=!3m1!4b1!4m6!3m5!1s0x41270943e9a6f2a9:0x7cea60ad1f14f53a!8m2!3d49.9968598!4d36.3515317!16s%2Fg%2F11vqm_yxkh?entry=ttu"
   },
+    {
+    "city": "Харків",
+    "cityCoordinates": [50.00809405621779, 36.32990630503759],
+    "zoomCity": 10,
+    "name": "вул. Стадіонний проїзд, 9",
+    "tel": "066-313-47-18",
+    "time": "10:00-20:00",
+    "coordinates": [],
+    "urlCoodinates": ""
+},
   {
     "city": "Одеса",
     "zoomCity": 10,
