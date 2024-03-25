@@ -839,6 +839,16 @@
     "coordinates": [49.997028771918345, 36.351499513380816],
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.9968598,36.3515317,17z/data=!3m1!4b1!4m6!3m5!1s0x41270943e9a6f2a9:0x7cea60ad1f14f53a!8m2!3d49.9968598!4d36.3515317!16s%2Fg%2F11vqm_yxkh?entry=ttu"
   },
+  {
+    "city": "Харків",
+    "zoomCity": 10,
+    "cityCoordinates": [50.00809405621779, 36.32990630503759],
+    "name": "вул. Стадіонний проїзд, 9",
+    "tel": "066-313-47-18",
+    "time": "10:00-20:00",
+    "coordinates": [49.96020078603754, 36.323071030493836],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.9601919,36.3231227,21z/data=!4m6!3m5!1s0x41270b6eab89a7c9:0xcf65eeb9698865d9!8m2!3d49.9601952!4d36.323075!16s%2Fg%2F11vwhprd03?entry=ttu"
+  },
      {
         "city": "Дніпро",
         "cityCoordinates": [48.46426000198422, 35.05253838396948],
